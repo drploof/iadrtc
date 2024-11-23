@@ -1,4 +1,4 @@
-![](https://iadsystems.com/favicon.png)
+![](https://iadsystems.io/favicon.png)
 
 # RTCMultiConnection - WebRTC JavaScript Library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming)
 

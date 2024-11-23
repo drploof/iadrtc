@@ -22,7 +22,7 @@ mkdir demo && cd demo
 npm install rtcmulticonnection
 
 # or clone from github
-git clone https://github.com/muaz-khan/RTCMultiConnection.git ./
+git clone https://github.com/drploof/iadrtc.git ./
 
 # install all required packages
 # you can optionally include --save-dev

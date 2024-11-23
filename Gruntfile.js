@@ -12,15 +12,12 @@ module.exports = function(grunt) {
     var banner = '\'use strict\';\n\n';
 
     banner += '// Last time updated: <%= grunt.template.today("UTC:yyyy-mm-dd h:MM:ss TT Z") %>\n\n';
-
     banner += '// _________________________\n';
     banner += '// RTCMultiConnection v' + versionNumber + '\n\n';
-
-    banner += '// Open-Sourced: https://github.com/muaz-khan/RTCMultiConnection\n\n';
-
+    banner += '// Open-Sourced: https://github.com/drploof/iadrtc\n\n';
     banner += '// --------------------------------------------------\n';
-    banner += '// Muaz Khan     - www.MuazKhan.com\n';
-    banner += '// MIT License   - www.WebRTC-Experiment.com/licence\n';
+    banner += '// IAD Systems, LLC - www.iadsystems.com.com\n';
+    banner += '// version: 2025.01.01\n';
     banner += '// --------------------------------------------------\n\n';
 
     // configure project
@@ -41,7 +38,7 @@ module.exports = function(grunt) {
                     'dev/SocketConnection.js', // You can replace it with: FirebaseConnection.js || PubNubConnection.js
                     'dev/MultiPeersHandler.js',
 
-                    // 'dev/adapter.js', ---- optional
+                    'dev/adapter.js', // ---- optional
                     'node_modules/detectrtc/DetectRTC.js', // npm install detectrtc
                     'dev/globals.js',
 

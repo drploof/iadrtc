@@ -2,28 +2,19 @@
 
 # RTCMultiConnection - WebRTC JavaScript Library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming)
 
-## Socket.io Signaling Server
+# Repository:
 
-Signaling server has a separate repository:
+* https://github.com/drploof/iadrtc/
 
-* https://github.com/muaz-khan/RTCMultiConnection-Server
+## Live:
 
-## Demos
-
-* https://muazkhan.com:9001/demos/
+* https://iadsystems.com:9001/
 
 ## Getting Started Without Any Installation
 
 * https://www.rtcmulticonnection.org/docs/getting-started/
 
-## YouTube Channel
-
-* https://www.youtube.com/playlist?list=PLPRQUXAnRydKdyun-vjKPMrySoow2N4tl
-
-## Install On Your Own Website
-
-* https://github.com/muaz-khan/RTCMultiConnection/tree/master/docs/installation-guide.md
-
+  
 ```sh
 mkdir demo && cd demo
 
@@ -40,23 +31,6 @@ npm install
 node server --port=9001
 ```
 
-## Integrate Inside Any Nodejs Application
-
-* https://github.com/muaz-khan/RTCMultiConnection-Server/wiki/Integrate-inside-nodejs-applications
-
-## `Config.json` Explained
-
-* https://github.com/muaz-khan/RTCMultiConnection-Server/wiki/config.json
-
-## How to Enable HTTPs?
-
-* https://github.com/muaz-khan/RTCMultiConnection-Server/wiki/How-to-Enable-HTTPs
-
-## Want to Contribute?
-
-RTCMultiConnection is using `Grunt` to compile javascript into `dist` directory:
-
-* https://github.com/muaz-khan/RTCMultiConnection/blob/master/CONTRIBUTING.md
 
 ## Wiki Pages
 
@@ -65,4 +39,5 @@ RTCMultiConnection is using `Grunt` to compile javascript into `dist` directory:
 
 ## License
 
-[RTCMultiConnection](https://github.com/muaz-khan/RTCMultiConnection) is released under [MIT licence](https://github.com/muaz-khan/RTCMultiConnection/blob/master/LICENSE.md) . Copyright (c) [Muaz Khan](https://MuazKhan.com/).
+Released under [MIT licence](https://github.com/muaz-khan/RTCMultiConnection/blob/master/LICENSE.md)
+Copyright (c) 2025 [IAD Systems, LLC](https://iadsystems.com/)

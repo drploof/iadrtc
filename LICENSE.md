@@ -1,7 +1,7 @@
 
 The MIT License
 ================
-
+Copyright (c) 1996-2025 IAD Systems, LLC \<security@iadsystems.com\>
 Copyright (c) 2014-2018 Muaz Khan \<muazkh@gmail.com\>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy

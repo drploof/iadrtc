@@ -1,10 +1,6 @@
-![](https://i.imgur.com/MFfRBSM.png)
+![](https://iadsystems.com/favicon.png)
 
-# RTCMultiConnection - WebRTC JavaScript Library
-
-[![npm](https://img.shields.io/npm/v/rtcmulticonnection.svg)](https://npmjs.org/package/rtcmulticonnection) [![downloads](https://img.shields.io/npm/dm/rtcmulticonnection.svg)](https://npmjs.org/package/rtcmulticonnection) [![Build Status: Linux](https://travis-ci.org/muaz-khan/RTCMultiConnection.png?branch=master)](https://travis-ci.org/muaz-khan/RTCMultiConnection)
-
-> RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
+# RTCMultiConnection - WebRTC JavaScript Library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming)
 
 ## Socket.io Signaling Server
 
